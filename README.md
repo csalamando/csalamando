@@ -27,7 +27,7 @@ I'm also pursuing a **Master's in Applied Artificial Intelligence** at Universid
 
 | Domain | Expertise |
 |--------|-----------|
-| **🤖 Applied AI & LLMs** | Amazon Bedrock, Azure Foundry, OpenAI, Mistral, LiteLLM governance, OpenWebUI, multi-agent orchestration (LangGraph) |
+| **🤖 Applied AI & LLMs** | Amazon Bedrock, Azure Foundry, LiteLLM governance, OpenWebUI, multi-agent orchestration (LangGraph-LangFlow) |
 | **⚡ Hyperautomation** | n8n, Make, Power Automate, UiPath, Bizagi BPM Cloud, Logic Apps, RPA, digital flow orchestration |
 | **☁️ Cloud Architecture** | Azure (Solutions Architect Expert), AWS, microservices, micro frontends, API Management, Step Functions |
 | **🔧 Enterprise Integration** | IBM BPM, Siebel, Flexcube, Fiserv, DataPower, MDM, ODM, Denodo, DataStage |
@@ -53,8 +53,7 @@ I'm also pursuing a **Master's in Applied Artificial Intelligence** at Universid
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral-FF7000?style=flat)
+
 
 **Automation & Integration**
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
@@ -91,7 +90,6 @@ I'm also pursuing a **Master's in Applied Artificial Intelligence** at Universid
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/csalamando/)
-- 📧 [Email](mailto:karlos75@gmail.com)
 - 🌐 Cali, Colombia | Open to remote opportunities
 
 ---
