@@ -15,11 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Solutions Architect** with **15+ years of experience** leading digital transformation, hyperautomation, and applied AI initiatives in the **banking and financial services sector**. I bridge the gap between business needs and scalable technology solutions.
-
-Currently serving as **Architecture Chapter Lead — AI & Automation** at **Banco de Occidente**, where I lead a team of 5 senior architects and drive the bank's enterprise AI platform strategy under the Spotify agile model.
-
-I'm also pursuing a **Master's in Applied Artificial Intelligence** at Universidad Icesi (2025–Present), complementing my earlier **Master's in BPM for Digital Transformation** from UNIR.
+With 15+ years of software architecture experience in fintech and corporate banking, I specialize in digital transformation and large-scale system design. Today, I leverage this enterprise foundation to architect and integrate modern Applied AI and hyperautomation workflows, bridging the gap between strategic business goals and advanced technical execution..
 
 ---
 
