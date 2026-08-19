@@ -1,21 +1,21 @@
-&lt;!-- Banner opcional: puedes crear uno en https://banner-maker.vercel.app/ o similar --&gt;
-&lt;!-- &lt;img src="https://your-banner-url.com/banner.png" alt="banner" width="100%" /&gt; --&gt;
+<!-- Banner opcional: puedes crear uno en https://banner-maker.vercel.app/ o similar -->
+<!-- <img src="https://your-banner-url.com/banner.png" alt="banner" width="100%" /> -->
 
-&lt;h1 align="center"&gt;Hi there 👋, I'm Carlos Alberto Salamando Mejía&lt;/h1&gt;
-&lt;h3 align="center"&gt;Solutions Architect | Digital Transformation & Applied AI Leader | Automation & BPM Specialist&lt;/h3&gt;
+<h1 align="center">Hi there 👋, I'm Carlos Alberto Salamando Mejía</h1>
+<h3 align="center">Solutions Architect | Digital Transformation & Applied AI Leader | Automation & BPM Specialist</h3>
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:karlos75@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-karlos75@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/csalamando/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-csalamando-0077B5?style=flat&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/csalamando"&gt;&lt;img src="https://img.shields.io/badge/GitHub-csalamando-181717?style=flat&logo=github&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Location-Cali,%20Colombia-00A859?style=flat" /&gt;
-&lt;/p&gt;
+<p align="center">
+ <!-- <a href="mailto:karlos75@gmail.com"><img src="https://img.shields.io/badge/Email-karlos75@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>-->
+  <a href="https://www.linkedin.com/in/csalamando/"><img src="https://img.shields.io/badge/LinkedIn-csalamando-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/csalamando"><img src="https://img.shields.io/badge/GitHub-csalamando-181717?style=flat&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Cali,%20Colombia-00A859?style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Solutions Architect** with **13+ years of experience** leading digital transformation, hyperautomation, and applied AI initiatives in the **banking and financial services sector**. I bridge the gap between business needs and scalable technology solutions.
+I'm a **Solutions Architect** with **15+ years of experience** leading digital transformation, hyperautomation, and applied AI initiatives in the **banking and financial services sector**. I bridge the gap between business needs and scalable technology solutions.
 
 Currently serving as **Architecture Chapter Lead — AI & Automation** at **Banco de Occidente**, where I lead a team of 5 senior architects and drive the bank's enterprise AI platform strategy under the Spotify agile model.
 
@@ -96,8 +96,8 @@ I'm also pursuing a **Master's in Applied Artificial Intelligence** at Universid
 
 ---
 
-&gt; *"Transforming business complexity into scalable, intelligent, and automated solutions."*
+> *"Transforming business complexity into scalable, intelligent, and automated solutions."*
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=csalamando&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=csalamando&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
